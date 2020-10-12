@@ -1,0 +1,36 @@
+.bb {
+    border-radius: 50px;
+}
+
+.ccc {
+    margin-left: 3%;
+}
+
+.c {
+    margin-left: 10px;
+}
+
+.mm {
+    margin-top: 13px;
+}
+
+.bc {
+    background-color: palegreen;
+    border: none;
+}
+
+.bc:hover {
+    background-color: palevioletred;
+}
+
+.float-btn {
+    position: fixed !important;
+    right: 29px;
+}
+
+.btn-fab {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    text-align: center;
+}
